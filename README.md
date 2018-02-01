@@ -3,9 +3,9 @@ my default bash aliases
 
 
 
-**There are only a few hidden gems in here.
+**There are only a few hidden gems in here.**
 
--findthis
--gitgraph
--hg
--latest ( takes me to my current project )
+- findthis
+- gitgraph
+- hg
+- latest ( takes me to my current project )
